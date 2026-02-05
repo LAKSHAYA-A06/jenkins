@@ -1,0 +1,7 @@
+Step 2: Create GitHub Repository
+
+Login to GitHub
+
+New repository → jenkins-demo
+
+Add a file
