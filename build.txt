@@ -1,0 +1,5 @@
+How to confirm Step 7 is working
+
+Make a new commit in GitHub
+
+Go to Jenkins job page
